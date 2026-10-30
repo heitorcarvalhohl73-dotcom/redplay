@@ -4,7 +4,7 @@
 
 ## Sobre o projeto
 
-O **RedPlay Live** é um aplicativo de canais ao vivo e entretenimento por streaming que oferece acesso a uma variedade de conteúdos, incluindo filmes, séries, esportes, notícias, conteúdo infantil, desenhos animados e muito mais.
+A **RedPlay Live** é um aplicativo de canais ao vivo e entretenimento por streaming que oferece acesso a uma variedade de conteúdos, incluindo filmes, séries, esportes, notícias, conteúdo infantil, desenhos animados e muito mais.
 
 O aplicativo foi desenvolvido para dispositivos baseados em Android, proporcionando uma experiência de entretenimento em diferentes plataformas.
 
